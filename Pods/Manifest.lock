@@ -1,0 +1,22 @@
+PODS:
+  - AudioKit (2.0):
+    - TPCircularBuffer (~> 0.0.1)
+  - TPCircularBuffer (0.0.1)
+
+DEPENDENCIES:
+  - AudioKit (from `https://github.com/niklassaers/AudioKit.git`)
+
+EXTERNAL SOURCES:
+  AudioKit:
+    :git: https://github.com/niklassaers/AudioKit.git
+
+CHECKOUT OPTIONS:
+  AudioKit:
+    :commit: 01117962c324fe3ce76d435523f268d3c042696f
+    :git: https://github.com/niklassaers/AudioKit.git
+
+SPEC CHECKSUMS:
+  AudioKit: 41204bed2cacd4b7132811aae57220ed842c118f
+  TPCircularBuffer: 949e9632b9fb99b7274d7b2296ee22bff5841e35
+
+COCOAPODS: 0.36.3
