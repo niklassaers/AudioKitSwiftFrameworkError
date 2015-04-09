@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKSingleInputMathOperation.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKSingleInputMathOperation.h

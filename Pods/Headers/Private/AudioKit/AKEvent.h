@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Sequencing/AKEvent.h
+../../../../../AudioKit/AudioKit/Sequencing/AKEvent.h

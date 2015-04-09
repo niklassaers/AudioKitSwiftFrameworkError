@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Notes/AKNote.h
+../../../../../AudioKit/AudioKit/Notes/AKNote.h

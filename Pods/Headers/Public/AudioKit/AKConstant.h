@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Parameters/AKConstant.h
+../../../../../AudioKit/AudioKit/Parameters/AKConstant.h

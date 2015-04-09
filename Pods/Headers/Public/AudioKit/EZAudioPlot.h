@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/EZAudio/EZAudioPlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/EZAudio/EZAudioPlot.h

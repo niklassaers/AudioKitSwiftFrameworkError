@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Input and Output/AKAudioInput.h
+../../../../../AudioKit/AudioKit/Operations/Signal Input and Output/AKAudioInput.h

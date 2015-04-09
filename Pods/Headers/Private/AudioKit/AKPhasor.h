@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Oscillators/AKPhasor.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Oscillators/AKPhasor.h

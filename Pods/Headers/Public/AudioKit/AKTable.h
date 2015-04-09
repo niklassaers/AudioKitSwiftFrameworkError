@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/AKTable.h
+../../../../../AudioKit/AudioKit/Tables/AKTable.h

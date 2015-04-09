@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDeclick.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDeclick.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Amplifiers/StereoAmplifier.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Amplifiers/StereoAmplifier.h

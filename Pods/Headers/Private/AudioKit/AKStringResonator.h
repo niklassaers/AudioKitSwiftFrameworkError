@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKStringResonator.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKStringResonator.h

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E01D3FFD-2136-40C5-BF76-1988D7F06D41</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AudioKitSwiftFrameworkError</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D7AE6F26A6D7E393D8CA002FDE5D0D8ABCDAE62</key>
+		<string>https://github.com/niklassaers/AudioKit.git</string>
+		<key>9B7F8C373EDDBF86FA65CF18ED09014792A39582</key>
+		<string>github.com:niklassaers/AudioKitSwiftFrameworkError.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AudioKitSwiftFrameworkError.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D7AE6F26A6D7E393D8CA002FDE5D0D8ABCDAE62</key>
+		<string>../../AudioKit</string>
+		<key>9B7F8C373EDDBF86FA65CF18ED09014792A39582</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:niklassaers/AudioKitSwiftFrameworkError.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B7F8C373EDDBF86FA65CF18ED09014792A39582</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D7AE6F26A6D7E393D8CA002FDE5D0D8ABCDAE62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AudioKit</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B7F8C373EDDBF86FA65CF18ED09014792A39582</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AudioKitSwiftFrameworkError</string>
+		</dict>
+	</array>
+</dict>
+</plist>

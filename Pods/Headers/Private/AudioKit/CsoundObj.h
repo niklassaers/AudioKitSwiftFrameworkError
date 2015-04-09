@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/classes/CsoundObj.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/classes/CsoundObj.h

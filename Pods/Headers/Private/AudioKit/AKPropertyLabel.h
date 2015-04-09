@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/User Interface Elements/AKPropertyLabel.h
+../../../../../AudioKit/AudioKit/Utilities/User Interface Elements/AKPropertyLabel.h

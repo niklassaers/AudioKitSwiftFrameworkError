@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/soundio.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/soundio.h

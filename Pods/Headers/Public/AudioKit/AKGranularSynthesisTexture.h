@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Granular Synthesis/AKGranularSynthesisTexture.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Granular Synthesis/AKGranularSynthesisTexture.h

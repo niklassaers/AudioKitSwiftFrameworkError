@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKBambooSticks.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKBambooSticks.h

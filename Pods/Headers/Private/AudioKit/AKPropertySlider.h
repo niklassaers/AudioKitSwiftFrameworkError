@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/User Interface Elements/AKPropertySlider.h
+../../../../../AudioKit/AudioKit/Utilities/User Interface Elements/AKPropertySlider.h

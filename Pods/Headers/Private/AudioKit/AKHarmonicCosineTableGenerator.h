@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKHarmonicCosineTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKHarmonicCosineTableGenerator.h

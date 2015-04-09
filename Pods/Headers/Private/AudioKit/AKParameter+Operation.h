@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/AKParameter+Operation.h
+../../../../../AudioKit/AudioKit/Operations/AKParameter+Operation.h

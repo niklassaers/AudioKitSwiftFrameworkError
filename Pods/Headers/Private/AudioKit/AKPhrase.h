@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Sequencing/AKPhrase.h
+../../../../../AudioKit/AudioKit/Sequencing/AKPhrase.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Segment Arrays/AKSegmentArrayLoop.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Segment Arrays/AKSegmentArrayLoop.h

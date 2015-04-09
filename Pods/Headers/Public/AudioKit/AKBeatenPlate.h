@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKBeatenPlate.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKBeatenPlate.h

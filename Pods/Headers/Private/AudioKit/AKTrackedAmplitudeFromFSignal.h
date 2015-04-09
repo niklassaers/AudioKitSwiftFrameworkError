@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedAmplitudeFromFSignal.h
+../../../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedAmplitudeFromFSignal.h

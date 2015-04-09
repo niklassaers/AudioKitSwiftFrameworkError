@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Instruments/AKInstrument.h
+../../../../../AudioKit/AudioKit/Instruments/AKInstrument.h

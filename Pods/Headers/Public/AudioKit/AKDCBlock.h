@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDCBlock.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDCBlock.h

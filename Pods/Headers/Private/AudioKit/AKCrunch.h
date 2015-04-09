@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKCrunch.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKCrunch.h

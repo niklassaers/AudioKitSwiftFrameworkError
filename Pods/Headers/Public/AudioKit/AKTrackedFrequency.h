@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedFrequency.h
+../../../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedFrequency.h

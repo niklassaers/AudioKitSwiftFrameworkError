@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Parameters/AKAudio.h
+../../../../../AudioKit/AudioKit/Parameters/AKAudio.h

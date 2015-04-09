@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKRandomDistributionTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKRandomDistributionTableGenerator.h

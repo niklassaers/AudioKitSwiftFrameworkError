@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Oscillators/AKOscillator.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Oscillators/AKOscillator.h

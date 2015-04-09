@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Mandolin.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Mandolin.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/version.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/version.h

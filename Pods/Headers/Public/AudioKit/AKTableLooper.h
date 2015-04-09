@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Loopers/AKTableLooper.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Loopers/AKTableLooper.h

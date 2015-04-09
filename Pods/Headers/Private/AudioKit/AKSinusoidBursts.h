@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Granular Synthesis/AKSinusoidBursts.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Granular Synthesis/AKSinusoidBursts.h

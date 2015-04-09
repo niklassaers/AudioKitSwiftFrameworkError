@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/AKInstrumentPropertyPlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/AKInstrumentPropertyPlot.h

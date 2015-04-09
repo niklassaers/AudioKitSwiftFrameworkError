@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Loopers/AKStereoSoundFileLooper.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Loopers/AKStereoSoundFileLooper.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/csdebug.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/csdebug.h

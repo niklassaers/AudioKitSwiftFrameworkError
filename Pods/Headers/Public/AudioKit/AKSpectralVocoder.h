@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/FFT/AKSpectralVocoder.h
+../../../../../AudioKit/AudioKit/Operations/FFT/AKSpectralVocoder.h

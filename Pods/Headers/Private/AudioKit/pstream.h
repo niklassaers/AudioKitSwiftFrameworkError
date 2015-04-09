@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/pstream.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/pstream.h

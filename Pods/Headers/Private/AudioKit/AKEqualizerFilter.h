@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKEqualizerFilter.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKEqualizerFilter.h

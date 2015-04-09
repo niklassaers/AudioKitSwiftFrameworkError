@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/AKSoundFileTable.h
+../../../../../AudioKit/AudioKit/Tables/AKSoundFileTable.h

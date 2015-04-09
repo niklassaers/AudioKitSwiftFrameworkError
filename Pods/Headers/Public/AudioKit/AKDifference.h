@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKDifference.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKDifference.h

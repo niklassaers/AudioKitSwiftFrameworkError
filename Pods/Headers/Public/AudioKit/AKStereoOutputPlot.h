@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/AKStereoOutputPlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/AKStereoOutputPlot.h

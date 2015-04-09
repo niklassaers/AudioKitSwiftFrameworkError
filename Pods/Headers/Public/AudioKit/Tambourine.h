@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Tambourine.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Tambourine.h

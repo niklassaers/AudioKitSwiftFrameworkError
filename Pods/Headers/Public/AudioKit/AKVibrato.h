@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Musical Controls/AKVibrato.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Musical Controls/AKVibrato.h

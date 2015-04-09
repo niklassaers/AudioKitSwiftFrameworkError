@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/text.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/text.h

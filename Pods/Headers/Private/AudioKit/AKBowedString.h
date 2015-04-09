@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKBowedString.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKBowedString.h

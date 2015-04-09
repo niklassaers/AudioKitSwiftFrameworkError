@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Core Classes/AKFoundation.h
+../../../../../AudioKit/AudioKit/Core Classes/AKFoundation.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Core Classes/MIDI/AKMidi.h
+../../../../../AudioKit/AudioKit/Core Classes/MIDI/AKMidi.h

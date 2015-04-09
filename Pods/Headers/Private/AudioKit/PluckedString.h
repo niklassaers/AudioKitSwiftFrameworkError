@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/PluckedString.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/PluckedString.h

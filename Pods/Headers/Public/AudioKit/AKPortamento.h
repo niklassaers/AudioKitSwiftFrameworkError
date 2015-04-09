@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Musical Controls/AKPortamento.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Musical Controls/AKPortamento.h

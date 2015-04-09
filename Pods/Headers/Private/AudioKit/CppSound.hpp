@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/CppSound.hpp
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/CppSound.hpp

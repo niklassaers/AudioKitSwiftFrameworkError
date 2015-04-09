@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKDopplerEffect.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKDopplerEffect.h

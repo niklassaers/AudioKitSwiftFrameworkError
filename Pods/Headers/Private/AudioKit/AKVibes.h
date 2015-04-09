@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKVibes.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKVibes.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKMinimum.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKMinimum.h

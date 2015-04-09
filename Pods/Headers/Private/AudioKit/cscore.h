@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/cscore.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/cscore.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/cfgvar.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/cfgvar.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKFlanger.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKFlanger.h

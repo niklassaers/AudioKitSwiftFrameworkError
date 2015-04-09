@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/AKTools.h
+../../../../../AudioKit/AudioKit/Utilities/AKTools.h

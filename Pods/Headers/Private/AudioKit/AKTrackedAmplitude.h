@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedAmplitude.h
+../../../../../AudioKit/AudioKit/Operations/Analysis/AKTrackedAmplitude.h

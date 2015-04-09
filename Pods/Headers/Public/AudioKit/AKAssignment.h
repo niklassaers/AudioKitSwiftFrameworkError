@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKAssignment.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKAssignment.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKCompressor.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Effects/AKCompressor.h

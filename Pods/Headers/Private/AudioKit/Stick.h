@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Stick.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Stick.h

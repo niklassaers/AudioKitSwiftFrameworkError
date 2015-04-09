@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Random Generators/AKJitter.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Random Generators/AKJitter.h

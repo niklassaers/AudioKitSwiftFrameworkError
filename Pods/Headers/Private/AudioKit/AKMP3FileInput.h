@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Input and Output/AKMP3FileInput.h
+../../../../../AudioKit/AudioKit/Operations/Signal Input and Output/AKMP3FileInput.h

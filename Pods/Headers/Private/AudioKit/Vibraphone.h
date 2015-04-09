@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Vibraphone.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/Vibraphone.h

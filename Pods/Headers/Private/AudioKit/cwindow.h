@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/cwindow.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/cwindow.h

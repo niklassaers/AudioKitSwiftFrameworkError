@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Synthesizers/FMOscillatorInstrument.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Synthesizers/FMOscillatorInstrument.h

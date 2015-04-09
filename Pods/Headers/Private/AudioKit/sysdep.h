@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/sysdep.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/sysdep.h

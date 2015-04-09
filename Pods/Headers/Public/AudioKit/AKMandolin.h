@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKMandolin.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKMandolin.h

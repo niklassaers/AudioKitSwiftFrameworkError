@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/AKTablePlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/AKTablePlot.h

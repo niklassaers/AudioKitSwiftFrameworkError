@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/msg_attr.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/msg_attr.h

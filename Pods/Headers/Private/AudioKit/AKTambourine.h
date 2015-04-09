@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKTambourine.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKTambourine.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKMarimba.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/AKMarimba.h

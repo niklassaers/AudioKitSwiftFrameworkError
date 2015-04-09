@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKExponentialTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKExponentialTableGenerator.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKVariableFrequencyResponseBandPassFilter.h
+../../../../../AudioKit/AudioKit/Operations/Signal Modifiers/Filters/AKVariableFrequencyResponseBandPassFilter.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/FFT/AKScaledFFT.h
+../../../../../AudioKit/AudioKit/Operations/FFT/AKScaledFFT.h

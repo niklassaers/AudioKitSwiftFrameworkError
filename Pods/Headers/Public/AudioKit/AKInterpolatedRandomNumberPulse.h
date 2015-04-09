@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Random Generators/AKInterpolatedRandomNumberPulse.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Random Generators/AKInterpolatedRandomNumberPulse.h

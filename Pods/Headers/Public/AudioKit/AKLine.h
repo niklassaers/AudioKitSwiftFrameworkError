@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Envelopes/AKLine.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Envelopes/AKLine.h

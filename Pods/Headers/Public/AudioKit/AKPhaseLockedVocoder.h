@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/FFT/AKPhaseLockedVocoder.h
+../../../../../AudioKit/AudioKit/Operations/FFT/AKPhaseLockedVocoder.h

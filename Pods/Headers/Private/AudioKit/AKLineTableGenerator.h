@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKLineTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKLineTableGenerator.h

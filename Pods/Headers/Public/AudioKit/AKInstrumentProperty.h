@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Instruments/AKInstrumentProperty.h
+../../../../../AudioKit/AudioKit/Instruments/AKInstrumentProperty.h

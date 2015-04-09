@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/StruckMetalBar.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Emulations/StruckMetalBar.h

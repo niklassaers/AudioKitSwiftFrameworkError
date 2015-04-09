@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/AKSampler.h
+../../../../../AudioKit/AudioKit/Utilities/AKSampler.h

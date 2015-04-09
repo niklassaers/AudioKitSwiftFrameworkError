@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKFourierSeriesTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKFourierSeriesTableGenerator.h

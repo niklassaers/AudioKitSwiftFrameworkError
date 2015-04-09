@@ -32,10 +32,23 @@
     "osx": "10.10",
     "ios": "8.0"
   },
+  "public_header_files": [
+    "AudioKit/Core Classes/**/*.h",
+    "AudioKit/Instruments/**/*.h",
+    "AudioKit/Notes/**/*.h",
+    "AudioKit/Operations/**/*.h",
+    "AudioKit/Parameters/**/*.h",
+    "AudioKit/Sequencing/**/*.h",
+    "AudioKit/Tables/**/*.h",
+    "AudioKit/Utilities/**/*.h"
+  ],
   "osx": {
     "frameworks": "CsoundLib64",
     "vendored_frameworks": "AudioKit/Platforms/OSX/CsoundLib64.framework",
-    "source_files": "AudioKit/Platforms/OSX/*.{h,m}"
+    "source_files": "AudioKit/Platforms/OSX/*.{h,m}",
+    "public_header_files": [
+      "AudioKit/Platforms/OSX/classes/*.h"
+    ]
   },
   "ios": {
     "libraries": [
@@ -49,6 +62,9 @@
     "source_files": [
       "AudioKit/Platforms/iOS/classes/*.{h,m}",
       "AudioKit/Platforms/iOS/headers/*.{h,hpp}"
+    ],
+    "public_header_files": [
+      "AudioKit/Platforms/iOS/classes/*.h"
     ]
   }
 }

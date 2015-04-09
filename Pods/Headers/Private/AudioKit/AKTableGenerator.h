@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKTableGenerator.h

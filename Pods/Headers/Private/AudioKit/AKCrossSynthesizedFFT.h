@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/FFT/AKCrossSynthesizedFFT.h
+../../../../../AudioKit/AudioKit/Operations/FFT/AKCrossSynthesizedFFT.h

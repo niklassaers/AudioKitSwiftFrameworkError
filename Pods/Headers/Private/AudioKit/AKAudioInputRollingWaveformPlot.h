@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/AKAudioInputRollingWaveformPlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/AKAudioInputRollingWaveformPlot.h

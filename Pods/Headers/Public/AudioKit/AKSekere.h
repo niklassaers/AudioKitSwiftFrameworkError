@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKSekere.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/PhISEM/AKSekere.h

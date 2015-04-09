@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKFlute.h
+../../../../../AudioKit/AudioKit/Operations/Signal Generators/Physical Models/Waveguide/AKFlute.h

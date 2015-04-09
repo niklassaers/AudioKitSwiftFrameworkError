@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Plots/AKAudioOutputFFTPlot.h
+../../../../../AudioKit/AudioKit/Utilities/Plots/AKAudioOutputFFTPlot.h

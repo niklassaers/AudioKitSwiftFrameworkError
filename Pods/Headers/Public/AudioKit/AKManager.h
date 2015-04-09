@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Core Classes/AKManager.h
+../../../../../AudioKit/AudioKit/Core Classes/AKManager.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Tables/Generators/AKWindowTableGenerator.h
+../../../../../AudioKit/AudioKit/Tables/Generators/AKWindowTableGenerator.h

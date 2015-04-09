@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/interlocks.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/interlocks.h

@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Platforms/iOS/headers/pools.h
+../../../../../AudioKit/AudioKit/Platforms/iOS/headers/pools.h

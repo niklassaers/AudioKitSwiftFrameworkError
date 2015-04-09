@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Utilities/Instruments/Analyzers/AKAudioAnalyzer.h
+../../../../../AudioKit/AudioKit/Utilities/Instruments/Analyzers/AKAudioAnalyzer.h

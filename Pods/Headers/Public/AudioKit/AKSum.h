@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKSum.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKSum.h

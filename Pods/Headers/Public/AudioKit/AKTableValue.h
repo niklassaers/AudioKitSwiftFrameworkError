@@ -1,1 +1,1 @@
-../../../AudioKit/AudioKit/Operations/Math/AKTableValue.h
+../../../../../AudioKit/AudioKit/Operations/Math/AKTableValue.h

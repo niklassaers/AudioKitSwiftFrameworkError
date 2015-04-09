@@ -3,4 +3,5 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 use_frameworks!
 
-pod 'AudioKit', :git => 'https://github.com/niklassaers/AudioKit.git'
+#pod 'AudioKit', :git => 'https://github.com/niklassaers/AudioKit.git'
+pod 'AudioKit', :path => '~/Desktop/AudioKit'
